@@ -10,8 +10,8 @@ This repository contains my solutions for the HackerRank SQL Certification Tests
 ## Problems & Solutions
 
 ### SQL Basic Certification
-- [Merit Rewards](./Merit_Rewards.sql)
-- [Country Codes](./Country_Codes.sql)
+- [Merit Rewards](./1-Basic/Merit_Rewards.sql)
+- [Country Codes](./1-Basic/Country_Codes.sql)
 
 ### SQL Intermediate Certification
 - [Invoices per Country](./Invoices_per_Country.sql)
