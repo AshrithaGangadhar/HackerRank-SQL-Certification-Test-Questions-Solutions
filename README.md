@@ -14,9 +14,9 @@ This repository contains my solutions for the HackerRank SQL Certification Tests
 - [Country Codes](./1-Basic/Country_Codes.sql)
 
 ### SQL Intermediate Certification
-- [Invoices per Country](./Invoices_per_Country.sql)
-- [Customer Spending](./Customer_Spending.sql)
+- [Invoices per Country](./2-Intermediate/Invoices_per_Country.sql)
+- [Customer Spending](./2-Intermediate/Customer_Spending.sql)
 
 ### SQL Advanced Certification
-- [Crypto Market Algorithms Report](./Crypto_Market_Algorithms_Report.sql)
-- [Winners Chart](./Winners_Chart.sql)
+- [Crypto Market Algorithms Report](./3-Advanced/Crypto_Market_Algorithms_Report.sql)
+- [Winners Chart](./3-Advanced/Winners_Chart.sql)
